@@ -1,91 +1,71 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Chandler Blacker's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Chandler Blacker 
+Murphy, TX 
+214-854-5205 | chandlerblacker@gmail.com 
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
-</div>
+## PROFESSIONAL SUMMARY 
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Business Analytics student at Brigham Young University–Idaho with strong skills in Python, R, and advanced Excel 
+for data analysis and visualization.   Experienced in working in fast-paced team environments and managing 
+technical systems and data reporting. Fluent in Spanish and passionate about using data to identify trends and 
+support business decisions.  Seeking a Business Analytics internship to apply analytical and programming skills in a 
+professional environment. 
 
 
-### Research interests
+## SKILLS 
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Programming: Python, R, C++, JavaScript, HTML, VBA 
+Data Libraries: Polars, Tidyverse, NumPy, ggplot2 
+Data Tools: Microsoft Excel (Pivot Tables, VLOOKUP/XLOOKUP, Data Analysis, Dashboards) 
+Other Tools: Photo Editing, Video Editing, Social Media Management 
+Languages: Fluent in Spanish 
 
 
+## EDUCATION 
 
-## Awards
+Brigham Young University–Idaho 
+Bachelor of Science in Business Analytics 
+Expected Graduation: April 2027 
+GPA: 3.9 
 
-`2012`
-President, *Royal Society*, London, UK
+## EXPERIENCE 
 
-Associate, *French Academy of Science*, Paris, France
+### DATA PROJECTS 
+
+Data Analysis Projects — Python, R, Excel 
+• Analyzed datasets using Python (Polars, NumPy) and R (Tidyverse) to identify patterns and trends 
+• Built data visualizations using ggplot2 and Excel charts to communicate insights clearly 
+• Performed data cleaning, transformation, and exploratory analysis across multiple datasets 
+
+### TECHNOLOGY SPECIALIST & SOCIAL MEDIA MANAGER 
+
+The Church of Jesus Christ of Latter-day Saints — Paraguay 
+2024 – 2025 
+• Managed mission technology systems and provided technical support for missionaries and leadership 
+• Organized and tracked mission data using Excel to support reporting and planning 
+• Created and edited digital media for social platforms supporting outreach and communication 
+• Coordinated technology use and troubleshooting across multiple teams 
+
+### TEAM ASSOCIATE 
+
+In-N-Out Burger — Plano, TX 
+2021 – 2023 
+• Worked in a high-volume environment serving customers while maintaining speed, accuracy, and strong service 
+standards 
+• Trained new hires on restaurant procedures and customer service expectations 
+• Began shift leadership responsibilities coordinating team members during busy periods 
 
 
+## CERTIFICATIONS & ACHIEVEMENTS 
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+SolidWorks Basic Certification 
+Eagle Scout — Boy Scouts of America
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2026 -->
